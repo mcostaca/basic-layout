@@ -4,7 +4,7 @@ function App() {
   return (
     <div className='grid-container'>
       <div className='coluna'>
-        <img src="https://cdn.dribbble.com/users/423261/screenshots/6604674/_x2face2a.gif"></img>
+        <img src="https://cdn.dribbble.com/users/423261/screenshots/6604674/_x2face2a.gif" alt="profile picture"/>
         <p>Some stuff here</p>
         <p>Another stuff here, like social media etc</p>
       </div>
