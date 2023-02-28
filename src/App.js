@@ -1,12 +1,17 @@
 import './App.css';
+import Tst from "./styles";
 
 function App() {
   return (
     <div className='grid-container'>
       <div className='coluna'>
         <img src="https://cdn.dribbble.com/users/423261/screenshots/6604674/_x2face2a.gif" alt="profile picture"/>
+        <Tst>
+        <div>
         <p>Some stuff here</p>
         <p>Another stuff here, like social media etc</p>
+        </div>
+      </Tst>
       </div>
       <div className='scroll'>
        
